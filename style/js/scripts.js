@@ -1,24 +1,4 @@
 /*-----------------------------------------------------------------------------------*/
-/*	BACKGROUND IMAGE
-/*-----------------------------------------------------------------------------------*/
-
-$(function() {
-
-	// Options for SuperBGImage
-	$.fn.superbgimage.options = {
-		randomtransition: 2, // 0-none, 1-use random transition (0-7)
-		z_index: -1, // z-index for the container
-		slideshow: 1, // 0-none, 1-autostart slideshow
-		slide_interval: 4000, // interval for the slideshow
-		randomimage: 1, // 0-none, 1-random image
-		speed: 'slow' // animation speed
-	};
-
-	// initialize SuperBGImage
-	$('#thumbs').superbgimage().hide();
-
-});
-/*-----------------------------------------------------------------------------------*/
 /*	MENU
 /*-----------------------------------------------------------------------------------*/
 
@@ -28,34 +8,6 @@ ddsmoothmenu.init({
 	classname: 'menu',
 	contentsource: "markup"
 })
-
-
-/*-----------------------------------------------------------------------------------*/
-/*	IMAGE HOVER
-/*-----------------------------------------------------------------------------------*/
-$(function() {
-$('.flickr img, .blog a img, #.container a img, .content a img').css("opacity","1.0");	
-$('.flickr img, .blog a img, #container a img, .content a img').hover(function () {										  
-$(this).stop().animate({ opacity: 0.75 }, "fast"); },	
-function () {			
-$(this).stop().animate({ opacity: 1.0 }, "fast");
-});
-});
-
-
-/*-----------------------------------------------------------------------------------*/
-/*	OPACITY
-/*-----------------------------------------------------------------------------------*/
-
-$('.opacity').transify({opacityOrig:.90, percentHeight:'100%'});
-
-/*-----------------------------------------------------------------------------------*/
-/*	PRETTYPHOTO
-/*-----------------------------------------------------------------------------------*/
-
-$(document).ready(function(){
-			$("a[rel^='prettyPhoto']").prettyPhoto({autoplay_slideshow: false, overlay_gallery: false, social_tools:false, deeplinking: false, theme:'pp_default', slideshow:5000});
-		});
 
 /*-----------------------------------------------------------------------------------*/
 /*	TOGGLE
@@ -91,16 +43,3 @@ $(document).ready(function() {
 	});
 
 });
-
-/*-----------------------------------------------------------------------------------*/
-/*	IMAGE HOVER
-/*-----------------------------------------------------------------------------------*/
- $(document).ready(function() {
-        $('.box, .carousel ul li').mouseenter(function(e) {
-
-            $(this).children('a').children('span').fadeIn(200);
-        }).mouseleave(function(e) {
-
-            $(this).children('a').children('span').fadeOut(200);
-        });
-    });
