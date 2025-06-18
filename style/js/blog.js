@@ -1,3 +1,5 @@
+//** Very Bad Blog Post Retrieval Script
+//** Created May 2025 From many hours on W3Schools, Stack Exchange, and one shameful session trouble shooiting with Ch*tGPT in an hour of weakness
 $(document).ready(function() {
   $.ajax({
     url: 'posts.txt',
@@ -12,7 +14,7 @@ $(document).ready(function() {
     }
   });
 
-  // Function to parse the plain text into structured posts
+  // Parse posts
   function parsePosts(data) {
     const rawPosts = data.split('---');
     return rawPosts.map(post => {
@@ -33,7 +35,7 @@ $(document).ready(function() {
     });
   }
 
-  // Function to display posts on the page
+  // Display Posts
   function displayPosts(posts) {
     $('#blogPosts').empty();
     posts.forEach(post => {
@@ -41,30 +43,38 @@ $(document).ready(function() {
         <div class="post" data-category="${post.category}" data-tags="${post.tags}">
           <h2>${post.title}</h2>
           <p>${post.content}</p>
+          <br>
           <p><strong>Tags:</strong> ${post.tags}</p>
+          <br>
+          <br>
         </div>
       `);
     });
   }
 
-  // Function to populate filter options
-  function populateFilters(posts) {
-    const categories = [...new Set(posts.map(post => post.category))];
-    const tags = [...new Set(posts.flatMap(post => post.tags.split(',').map(tag => tag.trim())))];
+// Populate Filters
+function populateFilters(posts) {
+  const categories = [...new Set(posts.map(post => post.category))];
+  const tags = [...new Set(posts.flatMap(post => post.tags.split(',').map(tag => tag.trim())))];
 
-    categories.forEach(category => {
-      $('#categoryFilter').append(`<option value="${category}">${category}</option>`);
-    });
-    tags.forEach(tag => {
-      $('#tagFilter').append(`<option value="${tag}">${tag}</option>`);
-    });
-  }
+  // Sort categories and tags alphabetically
+  categories.sort((a, b) => a.localeCompare(b));
+  tags.sort((a, b) => a.localeCompare(b));
+
+  categories.forEach(category => {
+    $('#categoryFilter').append(`<option value="${category}">${category}</option>`);
+  });
+
+  tags.forEach(tag => {
+    $('#tagFilter').append(`<option value="${tag}">${tag}</option>`);
+  });
+}
 
   // Filter application
   $('#categoryFilter').on('change', applyFilters);
   $('#tagFilter').on('change', applyFilters);
 
-  // Function to apply filters to the displayed posts
+  // Apply Filters to posts
   function applyFilters() {
     const selectedCategory = $('#categoryFilter').val();
     const selectedTag = $('#tagFilter').val();
