@@ -4,7 +4,7 @@ Theme URI: http://themes.iki-bir.com/zeences/light
 Author: elemis
 Author URI: http://iki-bir.com
 Version: 1.0.3
-Remix by Clue Coman V: 1.0.4
+Clue Remix V 1.0.5
 */
 
 /*-----------------------------------------------------------------------------------*/
@@ -367,25 +367,29 @@ hr.rounded {
 /*	LAYOUT
 /*-----------------------------------------------------------------------------------*/
 
+@media screen and (min-width: 500px) {
 #wrapper {
 	width: 960px;
 	margin: 0 auto;
 }
+}
 /* Phone Screen */
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 499px) {
 	#wrapper {
 	width: 100%;
 	margin: 0 auto;
 }
 }
+@media screen and (min-width: 500px) {
 #header {
 	padding: 30px 0 25px 0;
 	display: block;
 	overflow: hidden;
 	position: relative;
 }
+}
 /* Phone Screen */
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 499px) {
 #header {
 	padding: 0 0 0 0;
 	display: block;
@@ -396,6 +400,7 @@ hr.rounded {
 .logo {   
 	float: left;
 }
+@media screen and (min-width: 500px) {
 #container {
 	max-width: 900px;
 	margin: 20px auto;
@@ -406,8 +411,9 @@ hr.rounded {
 	position: relative;
 
 }
+}
 /* Phone Screen */
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 499px) {
 #container {
 	max-width: 600px;
 	margin: 20px auto;
@@ -418,6 +424,7 @@ hr.rounded {
 	position: relative;
   }
 }
+@media screen and (min-width: 500px) {
 #copyright {
 	width: 900px;
 	margin: 20px auto;
@@ -425,8 +432,9 @@ hr.rounded {
 	background-color: #fff;
 	opacity: 0.9;
 }
+}
 /* Phone Screen */
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 499px) {
 #copyright {
 	width: 100%;
 	margin: 0 auto;
@@ -487,6 +495,8 @@ select {
   border: none;
   border-radius: 4px;
   width: 80%;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 select:focus {
@@ -495,6 +505,7 @@ select:focus {
   opacity: 1;
   font-family: 'PTSansRegular';
   font-size: 16px;
+
 }
 option {
   font-family: 'PTSansRegular'; 
@@ -503,7 +514,7 @@ option {
 /*-----------------------------------------------------------------------------------*/
 /*	MENU
 /*-----------------------------------------------------------------------------------*/
-
+@media screen and (min-width: 500px) {
 .menu {
 	font-family: 'Museo500';
 	list-style: none;
@@ -541,12 +552,46 @@ option {
 	font-size: 14px;
 	
 }
+}
 /* Phone Screen */
-@media screen and (max-width: 600px) {
-  .menu ul li {
-    float: none;
+@media screen and (max-width: 499px) {
+ .menu {
+	font-family: 'Museo500';
+	list-style: none;
+	font-weight: normal;
+	max-width: 960px;
+	width: 100%;
+	padding: 0;
+	background: #FFF;
+	opacity: 0.9;
+	z-index: 1000;
+	position: relative;
+}
+.menu ul {
+	margin: 0;
+	list-style-type: none;
+	font-family: 'Museo500';
+	font-style: normal;
+	letter-spacing: normal;
+}
+.menu ul li {
+    position: relative;
+	display: inside;
+	float: none;
+	padding: 0;
+	background: none;
+	float: none;
     width: 100%;
-  }
+}
+.menu ul li a {
+	display: block;
+	padding: 20px 30px;
+	text-decoration: none;
+	display:block;
+	line-height: 1;
+	border-right: 2px solid #b4b4b4;
+	font-size: 14px;
+}
 }
 /* Webkit Fix */
 @media screen and (-webkit-min-device-pixel-ratio:0) { 
@@ -604,7 +649,7 @@ option {
 /*-----------------------------------------------------------------------------------*/
 /*	COLUMNS
 /*-----------------------------------------------------------------------------------*/
-
+@media screen and (min-width: 500px) {
 .one-half {
 	width:45%;
 }
@@ -647,8 +692,9 @@ option {
 	margin-right:0 !important;
 	clear:right;
 }
-/* On screens that are 600px wide or less, make the columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 600px) {
+}
+/* On screens that are 499px wide or less, make the columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 499px) {
   .one-half, .one-third, .two-third, .three-fourth, .one-fourth, .one-fifth, .two-fifth, .three-fifth, .four-fifth, .one-sixth, .five-sixth {
     width: 100%;
   }
