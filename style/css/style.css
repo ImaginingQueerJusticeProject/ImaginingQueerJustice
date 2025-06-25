@@ -4,7 +4,7 @@ Theme URI: http://themes.iki-bir.com/zeences/light
 Author: elemis
 Author URI: http://iki-bir.com
 Version: 1.0.3
-Clue Remix V 1.0.5
+Clue Remix 1.0.6
 */
 
 /*-----------------------------------------------------------------------------------*/
@@ -74,10 +74,15 @@ table {
 	display:block
 }
 th, td {
-	margin:0;
-	padding:0
+	margin:2px;
+	padding:2px;
+	border: 1px solid #8d4dab;
+	border-collapse:collapse;
+	border-spacing:0;
+	background-color: #d1edf3;
 }
 table {
+	border: 1px solid #8d4dab;
 	border-collapse:collapse;
 	border-spacing:0
 }
@@ -110,6 +115,7 @@ p {
 a {
 	color: #4d87ab;
 	text-decoration: none;
+	transition: all 200ms ease-in;
 	-webkit-transition:all 200ms ease-in;
 	-moz-transition:all 200ms ease-in;
 }
@@ -207,7 +213,7 @@ p .center {
 	margin: 0 auto 10px;
 }
 img {
-	display: block;
+	display: inline;
 }
 img.left {
 	float: left;
@@ -235,6 +241,7 @@ a.button {
 	text-align: center;
 	margin: 10px 0;
 	display: inline-block;
+	transition:all 200ms ease-in;
 	-webkit-transition:all 200ms ease-in;
 	-o-transition:all 200ms ease-in;
 	-moz-transition:all 200ms ease-in;
