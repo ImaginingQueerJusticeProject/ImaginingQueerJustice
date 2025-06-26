@@ -1,10 +1,10 @@
 /*
 Theme Name: Zeences HTML
-Theme URI: http://themes.iki-bir.com/zeences/light
+Theme URI: https://themes.iki-bir.com/zeences/light
 Author: elemis
-Author URI: http://iki-bir.com
+Author URI: https://iki-bir.com
 Version: 1.0.3
-Clue Remix 1.0.6
+Clue remix 1.0.7
 */
 
 /*-----------------------------------------------------------------------------------*/
@@ -109,8 +109,8 @@ body {
 	font-size: 14px;
 }
 p {
-	font-size: 14px;
-	line-height: 20px;
+	font-size: 15px;
+	line-height: 22px;
 }
 a {
 	color: #4d87ab;
@@ -157,8 +157,8 @@ h6 {
 }
 ul {
 	font-family: 'CharisSILItalic';
-	line-height: 20px;
-	font-size: 14px;
+	line-height: 22px;
+	font-size: 15px;
 }
 ul li {
 	background: transparent url(../images/bullet.png) center left no-repeat;
@@ -166,10 +166,10 @@ ul li {
 }
 ol {
 	font-family: 'PTSansRegular';
-	font-size: 14px;
+	font-size: 15px;
 	list-style: decimal;
 	list-style-position: inside;
-	line-height: 20px;
+	line-height: 22px;
 	padding-left: 5%;
 }
 ol li {
@@ -230,17 +230,21 @@ img.right {
 	border-bottom: 1px dotted #4d87ab;
 }
 a.button {
-	background: #5499c3 url(../images/button.png) repeat-x;
-	height: 15px;
+	background: #5499c3;
+	height: 30px;
 	-webkit-border-radius: 3px;
 	-moz-border-radius: 3px;
 	border-radius: 3px;
 	color: #fff;
 	font-family: 'Museo500';
-	padding: 6px 15px 6px 15px;
+	font-size: larger;
+	padding: 10px 15px 10px 15px;
 	text-align: center;
-	margin: 10px 0;
-	display: inline-block;
+	justify-content: center;
+    align-items: center;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	display: flex;
 	transition:all 200ms ease-in;
 	-webkit-transition:all 200ms ease-in;
 	-o-transition:all 200ms ease-in;
@@ -259,7 +263,7 @@ a.button {padding: 5px 15px 7px 15px;}
 
 a.button.blue {
 	background-color: #5499c3;
-	width:90%
+	font-size: 13px;
 }
 
 a.button.green {
@@ -281,12 +285,12 @@ a.button.purple {
 
 a.button.blue:hover {
 	color: #fff;
-	background-color: #ab4d63;
+	background-color: #e3bde5;
 }
 
 a.button.green:hover {
 	color: #fff;
-	background-color: #ab4d63;
+	background-color: #8d4dab;
 }
 
 a.button.lime:hover {
@@ -414,7 +418,7 @@ hr.rounded {
 	padding: 30px;
 	overflow: hidden;
 	background-color: #fff;
-	opacity: 0.9;
+	opacity: 0.88;
 	position: relative;
 
 }
@@ -427,7 +431,7 @@ hr.rounded {
 	padding: 20px;
 	overflow: hidden;
 	background-color: #fff;
-	opacity: 0.9;
+	opacity: 0.88;
 	position: relative;
   }
 }
@@ -493,6 +497,7 @@ ul.latest-posts li:first-child {
 	border: none;
 }
 select {
+  display: block;
   background-color: #8d4dab;
   color: white;
   padding: 12px 16px;
@@ -504,6 +509,10 @@ select {
   width: 80%;
   margin-top: 10px;
   margin-bottom: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  justify-content: center;
+  align-items: center;
 }
 
 select:focus {
@@ -532,6 +541,7 @@ option {
 	background: #FFF;
 	opacity: 0.9;
 	z-index: 1000;
+	text-align: center;
 	position: relative;
 }
 .menu ul {
@@ -547,7 +557,7 @@ option {
 	float: left;
 	padding: 0;
 	background: none;
-	width: 16.6666667%;
+	width: 20%;
 }
 .menu ul li a {
 	display: block;
@@ -705,4 +715,128 @@ option {
   .one-half, .one-third, .two-third, .three-fourth, .one-fourth, .one-fifth, .two-fifth, .three-fifth, .four-fifth, .one-sixth, .five-sixth {
     width: 100%;
   }
+}
+/*-----------------------------------------------------------------------------------*/
+/*	TOGGLE
+/*-----------------------------------------------------------------------------------*/
+
+.toggle {
+	box-sizing: border-box;
+	padding-bottom: 20px;
+}
+.toggle-wrapper {
+	padding-bottom:5px;
+}
+h2.trigger {
+	box-sizing: border-box;
+	font-size: 15px;
+	display: block;
+	background-color: #FFF;
+	padding: 10px 10px;
+	color: #4d87ab;
+	border: 1px solid #c3dee0;
+	border-radius: 5px;
+}
+h2.trigger.active {
+	color: #4d87ab;
+}
+h2.trigger:hover {
+	color: #4d87ab;
+}
+.togglebox {
+	box-sizing: border-box;
+	height: auto;
+	background-color: #FFF;
+	overflow: hidden;
+	margin-top: 10px;
+	margin-bottom:  10px;
+	border: 1px solid #c3dee0;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}
+.togglebox div {
+	padding: 20px;
+}
+.togglebox p {
+	line-height: 22px;
+}
+.togglebox p {
+	line-height: 22px;
+}
+.tabbed-content {
+	width: 100%;
+	overflow: hidden;
+	margin-bottom: 20px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}
+/*-----------------------------------------------------------------------------------*/
+/*	TABS
+/*-----------------------------------------------------------------------------------*/
+
+ul.tabs {
+	margin: 0;
+	padding: 0;
+	float: left;
+	list-style: none;
+	width: 100%;
+	color: #4d4d4d;
+}
+ul.tabs li {
+	float: left;
+	position: relative;
+	list-style: none;
+	margin-right: 10px;
+	background: none;
+	padding: 0;
+	font-family: 'Museo500';
+}
+ul.tabs li a {
+	display: block;
+	position: relative;
+	padding: 8px 10px 8px;
+	line-height: 1;
+	text-align: center;
+	font-weight: normal;
+	color: #4d4d4d;
+	text-shadow: none;
+	border: 1px solid #dedede;
+	background-color: #FFF;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}
+ul.tabs li a:hover {
+	text-shadow: none;
+	text-decoration: none;
+	color: #FFF;
+}
+ul.tabs li a {
+	float: left;
+}
+ul.tabs li a:hover {
+	text-decoration: none;
+	color: #4d87ab;
+}
+ul.tabs li.active a {
+	border: 1px solid #4d87ab;
+	color: #fff;
+	background-color: #4d87ab;
+}
+.tab_container {
+	border-top: none;
+	clear: both;
+	float: left;
+	width: 99%;
+	border: 1px solid #dedede;
+	background: #FFF;
+	margin-top: 10px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}
+.tab_content {
+	padding: 15px 15px 15px 15px;
 }
