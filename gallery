@@ -29,11 +29,11 @@
     <div class="clear"></div>
     <div id="menu" class="menu opacity">
       <ul>
-        <li><a href="index.html">Home</a></li>
-        <li><a href="contribute.html">Take Part</a></li>
-        <li><a href="gallery.html">View Gallery</a>
-        <li><a href="resources.html">Resources</a></li>
-        <li><a href="about.html">About</a></li>
+        <li><a href="index">Home</a></li>
+        <li><a href="contribute">Take Part</a></li>
+        <li><a href="gallery">View Gallery</a>
+        <li><a href="resources">Resources</a></li>
+        <li><a href="about">About</a></li>
       </ul>
       <br style="clear: left">
     </div>
