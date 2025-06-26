@@ -6,11 +6,21 @@
  <meta charset="UTF-8">
  <link rel="shortcut icon" type="image/x-icon" href="style/images/favicon.png">
  <link rel="stylesheet" type="text/css" href="style/css/style.css" media="all">
- <link rel="stylesheet" type="text/css" href="style/color/blue.css" media="all">
+ <link rel="stylesheet" type="text/css" href="style/color/purple.css" media="all">
  <link rel="stylesheet" type="text/css" href="style/type/museo.css" media="all">
  <link rel="stylesheet" type="text/css" href="style/type/ptsans.css" media="all">
  <link rel="stylesheet" type="text/css" href="style/type/charis.css" media="all">
  <script src="style/js/jquery-3.7.1.min.js"></script>
+  <script>$(document).ready(function() {
+    // Hide all toggle boxes on page load
+    $(".togglebox").hide();
+
+    // Toggle visibility on <h2> click
+    $("h2").click(function() {
+        $(this).toggleClass("active").next(".togglebox").slideToggle("slow");
+    });
+});
+</script>
 </head>
 <body>
   <style>
@@ -29,36 +39,159 @@
     <div id="menu" class="menu opacity">
       <ul>
         <li><a href="index.html">Home</a></li>
+        <li><a href="contribute.html">Take Part</a></li>
+        <li><a href="gallery.html">View Gallery</a>
         <li><a href="resources.html">Resources</a></li>
-        <li><a href="submissions.html">Submissions</a>
-        <li><a href="contribute.html">Contribute</a></li>
         <li><a href="about.html">About</a></li>
-        <li><a href="credits.html">Credits</a></li>
       </ul>
      <br style="clear: left">
     </div>
     <div id="container" class="opacity">
-     <h2>The Research Team</h2>
+      <h2>Acknowledgement of Country</h2>
+        <p>I acknowledge the First Nations peoples of the continent on which this project has taken place. I acknowledge in particular: the Gadigal people, on whose country much of this work was conceived and grown; the Dharawal, custodians of the land where I now live and work; and the Yuin, on whose country I was born and grown.  </p>
+        <br>
+        <p>I pay my respect to the country, peoples and communities who have long preceded me in this place. I acknowledge and honour the living practices of storytelling and knowledge making that have been in use here since time immemorial. In the wake of which this project of stories has developed. </p>
+        <br>
+        <p>Finally, I acknowledge that the original struggle for justice in this country, is one of treaty, of freedom, of truth telling. I support the <a href="https://ulurustatement.org/the-statement/view-the-statement/" >Uluru Statement from the Heart</a> and acknowledge that sovereignty has never been ceded or extinguished. </p>
+        <br>
+        <br>
+      <h2>The Research Team</h2>
        <h4>PhD Researcher</strong></h4>
-         <p> <a href="https://www.unsw.edu.au/hdr/clue-coman">Clue Coman</a> (they/them) is a PhD candidate and research assistant at the Centre for Social Research in Health, UNSW.</p>
+         <p> <a href="https://www.unsw.edu.au/hdr/clue-coman">Clue Coman</a> (they/them) is a PhD candidate and research assistant at the Centre for Social Research in Health, UNSW Sydney.</p>
          <br>  
-         <p>Their research explores the social imaginary of queer justice and examines the direct and social harms impacting LGBTQA+ people through the frameworks of critical human rights, queer theory, and zemiology. This thesis interrogates the justice gap between the legal and institutional protections for queer communities, and the reality of their lived experiences.</p>
-         <br>
+         <p>Their research explores social imaginaries of queer justice and direct and social harms impacting LGBTQA+ people, applying frameworks of critical human rights, queer theory, and zemiology. They are interested in understanding and addressing the justice gap between the legal and institutional protections for queer communities, and the reality of their lived experiences.</p>         <br>
          <p><strong> Research Areas:</strong> Social imaginaries of justice, Queer theory, Creative research methods. </p>
          <br>
        <h4>Supervisory Team</h4>
          <br>
-         <p>  <a href="https://www.unsw.edu.au/staff/anthony-smith">Dr Anthony K J Smith</a> (he/him) is the chief investigator and joint supervisor. Dr Smith has worked in LGBTQ+ communities for 10 years, and qualitative research for the last 7 years, and authored 40+ publications in LGBTQ+ health and social care.</p>
+         <p>  <a href="https://www.unsw.edu.au/staff/anthony-smith">Dr Anthony K J Smith</a> (he/him) is a Research Fellow at the Centre for Social Research in Health, and Lecturer at the School of Population Health, Curtin University. He is a qualitative sociologist of health, gender, and sexuality, with particular interests in HIV, sexual health, and LGBTQIA+ communities. </p>
          <br>
-         <p>  <a href="https://www.unsw.edu.au/staff/christy-newman">Prof Christy Newman</a>  (they/them) is a joint supervisor. Prof Newman has worked in LGBTQ+ qualitative research for the last 20 years, and authored 100+ publications in LGBTQ+ health and social care.</p>
+         <p>  <a href="https://www.unsw.edu.au/staff/christy-newman">Prof Christy Newman</a>  (they/them) is a Professor at the Centre for Social Research in Health, and Deputy Dean Research for the faculty of Arts, Design and Architecture. They are a qualitative sociologist of health, gender, and sexuality, with a particular interest in LGBTQIA+ inclusive health, education, and social systems reform. </p>
          <br>
-         <p>  <a href="https://www.unsw.edu.au/staff/andy-kaladelfos">Dr Andy Kaladelfos</a> (they/them) is a co-supervisor on this project.  Dr Kaladelfos has worked in LGBTQ+ communities for over 20 years, and specialises in LGBTQ+ criminology and qualitative research.</p>
+         <p>  <a href="https://www.unsw.edu.au/staff/andy-kaladelfos">Dr Andy Kaladelfos</a> (they/them) is Senior Lecturer in Criminology in the School of Law, Society and Criminology, and Co-Convenor of the Gendered Violence Research Network. They are an interdisciplinary researcher with expertise in sexual and gender-based violence, queer criminology, immigration regulation, and homophobic and transphobic violence.</p>
          <br>
-     <h3>Publications</h3>
-       <p> Watch this space for publications from this research</p>
+         <p>All four are founding members of <a href="https://www.unsw.edu.au/research/copqti">CoPQTI: </a>the UNSW Community of Practice for Inclusive Research with Queer and Trans people, and people with innate variations of sex characteristics (Intersex).</p>
+         <br>
+     <div class="toggle">
+      <h2 class="trigger">⮟ Contact</h2> 
+      <div class="togglebox">
+        <div>
+        <p>If you would like to learn more about the research, you can contact the research team:</p>
+        <br>
+          <table width="90%">
+            <tr>
+              <td width="20%">Name</td>
+              <td>Clue Coman</td>
+            </tr>
+            <tr>
+              <td>Position</td>
+              <td>PhD Candidate</td>
+            </tr>
+            <tr>
+              <td>Telephone</td>
+              <td>+61 2 9348 2247</td>
+            </tr>
+            <tr>
+              <td>Email</td>
+              <td>c.coman@unsw.edu.au</td>
+            </tr>
+            </table>
+            <br> 
+            <table width="90%">
+            <tr>
+              <td width="20%">Name</td>
+              <td>Dr Anthony K J Smith</td>
+            </tr>
+            <tr>
+              <td>Position</td>
+              <td>Research Fellow</td>
+            </tr>
+            <tr>
+              <td>Telephone</td>
+              <td>+61 2 9348 1288</td>
+            </tr>
+            <tr>
+              <td>Email</td>
+              <td>anthony.smith@unsw.edu.au</td>
+            </tr>
+            </table>
+            <br>
+            </div>
+            </div>
+        </div>
+      <div class="toggle">
+        <h2 class="trigger"> ⮟ Ethical Approvals </h2>  
+        <div class="togglebox">
+          <div>
+       <p>This research has received ethical approval from the UNSW Human research Ethics Committee (iRECS7923). If you have a complaint regarding any aspect of the study or the way it is being conducted, please contact the UNSW Human Ethics Coordinator:</p>
        <br>
-     <h3>Credits and Bibliography</h3>
-       <p> Check out the <a href="credits.html">credits</a> for acknowledgements, website credits and bibiography.</p>
+       <table width="90%">
+        <tr>
+          <td width="20%">Position	</td>
+          <td>UNSW Human Research Ethics Coordinator</td>
+        </tr>
+        <tr>
+          <td>Telephone</td>
+          <td>+ 61 2 9385 6222</td>
+        </tr>
+               <tr>
+          <td>Email</td>
+          <td>humanethics@unsw.edu.au </td>
+        </tr>
+               <tr>
+          <td>HC Reference</td>
+          <td>7923</td>
+        </tr>
+        </table>
+        <br>
+      </div>
+      </div>
+      </div>
+      <div class="toggle">
+        <h2 class="trigger">⮟ Publications</h2>
+        <div class="togglebox">
+          <div>
+            <p>Watch this space for publications from this research.</p>
+          </div>
+        </div>
+      </div>
+            <div class="toggle">
+        <h2 class="trigger">⮟ Website Credits </h2>
+        <div class="togglebox">
+          <div>
+        <p> <h4>Site Design</h4></p>
+        <p>This website was remixed from an open source design by <a href="http://elemisfreebies.com">elemis</a>.</p>
+        <p>Edited in Visual Studio Code.</p>
+        <p>Special thanks to the team at <a href="https://www.w3schools.com/">W3Schools</a> for developing a great learning resource that made this project possible.</p>
+        <br>
+        <br>
+        <h4>Images</h4>
+        <div class="one-half">
+        <strong> Background Images</strong>
+          <ol>
+            <p> Photo 1 by <a href="https://unsplash.com/@seanwsinclair?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Sean Sinclair</a> on <a href="https://unsplash.com/photos/a-blurry-image-of-a-rainbow-colored-background-Z3iQro6aRQE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></p>
+            <p> Photo 2 by <a href="https://unsplash.com/@sesano9?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Marta Serrano</a> on <a href="https://unsplash.com/photos/a-blurry-image-of-a-pink-and-blue-background-yOvt9N6p7HM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></p>
+            <p> Photo 3 by <a href="https://unsplash.com/@vinhundred?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Vincent Maufay </a> on <a href="https://unsplash.com/photos/a-blurry-image-of-a-purple-and-blue-background-MWj1zsf5yjM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></p>
+            <p> Photo 4 by <a href="https://unsplash.com/@sesano9?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Marta Serrano</a> on <a href="https://unsplash.com/photos/a-blurry-image-of-a-blue-and-purple-background-AZnUPsiNW48?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></p>
+            <p> Photo 5 by <a href="https://unsplash.com/@fakurian?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Milad Fakurian</a> on <a href="https://unsplash.com/photos/purple-and-green-light-gradient-iFu2HILEng8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></p>
+            <p> Photo 6 by <a href="https://unsplash.com/@ehsanmoin?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Ehsan Moin</a> on <a href="https://unsplash.com/photos/a-blurry-image-of-a-blue-and-pink-background-EXCf2r0SxMY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></p>
+        </ol>
+        <br>
+        </div>
+        <div class="last">
+        <strong> Icons</strong>
+          <ol>
+            <p> <a href="https://www.flaticon.com/free-icons/people" title="people icons">People icons created by kornkun - Flaticon</a></p>
+            <p> <a href="https://www.flaticon.com/free-icons/book" title="book icons">Book icons created by Zlatko Najdenovski - Flaticon</a></p>
+            <p> <a href="https://www.flaticon.com/free-icons/edit" title="edit icons">Edit icons created by Kiranshastry - Flaticon</a></p>
+            <p> <a href="https://www.flaticon.com/free-icons/article" title="article icons">Article icons created by prettycons - Flaticon</a></p>
+            <p> <a href="https://www.flaticon.com/free-icons/telephone-receiver" title="telephone receiver icons">Telephone receiver icons created by Fathema Khanom - Flaticon</a> </p>
+          </ol>
+        <br>
+        </div>
+          </div>
+        </div>
+      </div>
      <div id="footer">
       <div class="footer-top"></div>
       <div class="one-half">
@@ -71,7 +204,7 @@
       </div>
       <div class="one-half last">
         <h3><a href="about.html">About</a></h3>
-        <p>Imagining Queer Justice is a PhD research study that seeks to understand how queer people imagine justice, and how it is enacted in the world. </p>
+        <p>Imagining Queer Justice is a PhD project that seeks to understand how queer people imagine justice, and how it is enacted in the world. </p>
         <br>
         <p>This website and its contents are covered by a <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC-BY Attribution 4.0 International licence</a>.</p>
       </div>
