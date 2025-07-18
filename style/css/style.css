@@ -4,7 +4,7 @@ Theme URI: https://themes.iki-bir.com/zeences/light
 Author: elemis
 Author URI: https://iki-bir.com
 Version: 1.0.3
-Clue remix 1.0.7
+Clue remix 1.0.8
 */
 
 /*-----------------------------------------------------------------------------------*/
@@ -272,7 +272,8 @@ a.button.green {
 }
 
 a.button.lime {
-	background-color: #92ab4d;
+	background-color: #8e7bfcab;
+	width:25%
 }
 
 a.button.red {
@@ -295,7 +296,7 @@ a.button.green:hover {
 
 a.button.lime:hover {
 	color: #fff;
-	background-color: #ab4d63;
+	background-color: #52cab0;
 }
 
 a.button.red:hover {
@@ -461,6 +462,9 @@ hr.rounded {
 #footer {
 	padding: 40px 0 0 0;
 	overflow: hidden;
+}
+#footer p {
+	font-size: 14px;
 }
 #footer h3 {
 	margin-bottom: 5px;
