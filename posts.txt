@@ -1,24 +1,3 @@
-PostID: 001 
-Title: Future Justice
-Date: 2024-11-10
-Category: Researcher Posts
-Tags: Queer quotes, Queer identity, Futurity
-Content: "Queerness is not yet here. Queerness is an ideality. Put another way, we are not yet queer. We may never touch queerness, but we can feel  it as the warm illumination of a horizon imbued with potentiality. We have never been queer, yet queerness exists for us as an ideality that can be distilled from the past and used to imagine a future. The future is queerness’s domain." <br> - José Esteban Muñoz, Cruising Utopia
----
-PostID: 002
-Title: Saving our own lives
-Date: 2024-12-01
-Category: Researcher Posts
-Tags: Queer quotes, Harm Reduction, Mutual Aid
-Content: "We have been thinking through risk forever: how to face gendered violence, structural racism, contagion, the violence of poverty, the ravages of the dominant culture that tries time and again to disappear us. We have laid the groundwork, dug the foundation. And we do not have to do it alone: we save each other’s lives, back and forth, always." <br> - Shira Hassan, Saving Our Own Lives: A Liberatory Practice of Harm Reduction
----
-PostID: 003
-Title: Kaleidescopic Justice
-Date: 2025-01-15
-Category: Researcher Posts
-Tags: Queer quotes, Justice
-Content: "Kaleidoscopic justice is justice as a constantly shifting pattern, continually refracted through new experiences and perspectives, with multiple beginnings and no finite ending. Justice as a pluralistic, lived, evolving experience. Embedded within this approach are various justice themes – consequences, recognition, dignity, voice, prevention and connectedness – which embody and exemplify the constantly changing pattern of kaleidoscopic justice." <br> - Clare McGlynn & Nicole Westmarland, Kaleidoscopic Justice: Sexual Violence and Victim-Survivors’ Perceptions of Justice
----
 PostID: 004
 Title: The Self That is at Odds
 Date: 2025-07-25
@@ -40,4 +19,28 @@ Title: Common Interest
 Date: 2025-07-25
 Category: Researcher Posts
 Tags: Queer quotes, Survival, Difference
-Content: “We share a common interest, survival, and it cannot be pursued in isolation from others simply because their differences make us uncomfortable.” <br> - Audre Lorde
+Content: “We share a common interest, survival, and it cannot be pursued in isolation from others simply because their differences make us uncomfortable.” <br> - Audre LordePostID: 001 
+
+---
+PostID: 001
+Title: Future Justice
+Date: 2024-11-10
+Category: Researcher Posts
+Tags: Queer quotes, Queer identity, Futurity
+Content: "Queerness is not yet here. Queerness is an ideality. Put another way, we are not yet queer. We may never touch queerness, but we can feel  it as the warm illumination of a horizon imbued with potentiality. We have never been queer, yet queerness exists for us as an ideality that can be distilled from the past and used to imagine a future. The future is queerness’s domain." <br> - José Esteban Muñoz, Cruising Utopia
+---
+PostID: 002
+Title: Saving our own lives
+Date: 2024-12-01
+Category: Researcher Posts
+Tags: Queer quotes, Harm Reduction, Mutual Aid
+Content: "We have been thinking through risk forever: how to face gendered violence, structural racism, contagion, the violence of poverty, the ravages of the dominant culture that tries time and again to disappear us. We have laid the groundwork, dug the foundation. And we do not have to do it alone: we save each other’s lives, back and forth, always." <br> - Shira Hassan, Saving Our Own Lives: A Liberatory Practice of Harm Reduction
+---
+PostID: 003
+Title: Kaleidescopic Justice
+Date: 2025-01-15
+Category: Researcher Posts
+Tags: Queer quotes, Justice
+Content: "Kaleidoscopic justice is justice as a constantly shifting pattern, continually refracted through new experiences and perspectives, with multiple beginnings and no finite ending. Justice as a pluralistic, lived, evolving experience. Embedded within this approach are various justice themes – consequences, recognition, dignity, voice, prevention and connectedness – which embody and exemplify the constantly changing pattern of kaleidoscopic justice." <br> - Clare McGlynn & Nicole Westmarland, Kaleidoscopic Justice: Sexual Violence and Victim-Survivors’ Perceptions of Justice
+---
+
