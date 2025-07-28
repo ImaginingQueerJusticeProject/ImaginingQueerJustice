@@ -1,7 +1,7 @@
 PostID: I5701
 Title: A Tool/ A Lens 
 Date: 28/07/2025
-Category: What is QJ? 
+Category: Imaginaries
 Tags: Justice, Queer History, Acknowledgment, Authority
 Content: I'm not too sure. Perhaps justice for our historical mistreatment, and also the mistreatment we still face. It's an acknowledgement of the history, and the current barriers posed by the status quo. A tool to question authority and lens through which to understand politics and society.
 ---
@@ -53,5 +53,5 @@ Date: 2025-01-15
 Category: Researcher Posts
 Tags: Queer quotes, Justice, Recognition
 Content: "Kaleidoscopic justice is justice as a constantly shifting pattern, continually refracted through new experiences and perspectives, with multiple beginnings and no finite ending. Justice as a pluralistic, lived, evolving experience. Embedded within this approach are various justice themes – consequences, recognition, dignity, voice, prevention and connectedness – which embody and exemplify the constantly changing pattern of kaleidoscopic justice." <br> - Clare McGlynn & Nicole Westmarland, Kaleidoscopic Justice: Sexual Violence and Victim-Survivors’ Perceptions of Justice
----
+
 
