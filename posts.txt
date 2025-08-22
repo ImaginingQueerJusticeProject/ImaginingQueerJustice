@@ -1,3 +1,17 @@
+PostID: I50801
+Title: Actual Justice - IS Queer
+Date: 22/08/2025
+Category: Imaginaries
+Tags: Collective Justice, Identity, Acceptance, Harm
+Content: I think justice - actual justice - IS queer. It requires accepting multiplicities, engagement with the fact that none of us are one thing, all of us use and experience harm at different points. Justice is a collective process, not something that can be dictated, and is contingent on people in that process being able to see that identity is fluid and people can and do change in relationship with each other
+---
+PostID: F50801
+Title: DOING Justice in the Everyday
+Date: 22/08/2025
+Category: Futures
+Tags: Collective Justice, Harm, Systems, State
+Content: I'm not sure I think of justice as something to be attained. I imagine working collectively on getting better at DOING justice in the everyday, and that a future that is more just than the present would be one where more people have the skills to reflect critically, repair harm, and build more equitable systems. A more just future would require us to stop out-sourcing our ideas of justice to the State, which consistently fails to deliver it, and start practicing it in the everyday. I see snatches of this way of being in my life, in tiny spaces and interactions, and these are the same spaces that are the only ones I truly feel safe.
+---
 PostID: I5701
 Title: A Tool/ A Lens 
 Date: 28/07/2025
@@ -53,6 +67,7 @@ Date: 2025-01-15
 Category: Researcher Posts
 Tags: Queer quotes
 Content: "Kaleidoscopic justice is justice as a constantly shifting pattern, continually refracted through new experiences and perspectives, with multiple beginnings and no finite ending. Justice as a pluralistic, lived, evolving experience. Embedded within this approach are various justice themes – consequences, recognition, dignity, voice, prevention and connectedness – which embody and exemplify the constantly changing pattern of kaleidoscopic justice." <br> - Clare McGlynn & Nicole Westmarland, Kaleidoscopic Justice: Sexual Violence and Victim-Survivors’ Perceptions of Justice
+
 
 
 
