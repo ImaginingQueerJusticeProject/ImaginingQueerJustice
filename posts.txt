@@ -1,3 +1,45 @@
+PostID: I50804
+Title: Conceptualised from the Start
+Date: 25/08/2025
+Category: Imaginaries
+Tags: Systems, Inclusion, Access
+Content: Queer justice is a justice system built with queer people conceptualised from the start, as well as other marginalised peoples, rather than their inclusion being built on amendments and after thoughts. This allows equitable access to justice.
+---
+PostID: F50804
+Title: Dismantling/Utilising
+Date: 25/08/2025
+Category: Futures
+Tags: State, Violence, Police
+Content: A just future to me looks to the dismantling of police and prisons, utilising a system that does not require the use of state sanctioned violence. This state violence often manifests in the oppression of marginalised communities and along lines of governmental biases
+---
+PostID: I50803
+Title: Freedom from discrimination.
+Date: 25/08/2025
+Category: Imaginaries
+Tags: Discrimination
+Content: Freedom from discrimination.
+---
+PostID: F50803
+Title: 
+Date: 25/08/2025
+Category: Futures
+Tags: Discrimination, Apology, Police, Health, Education
+Content: Get rid of that religious discrimination bill bullshit. No organisation should be allowed to discriminate on the basis of gender identity or sexuality. Especially none receiving government money (ahem- private schools, private hospitals)  Except in cases of 'positive discrimination' (e.g. a female or LGBTQIA identified position because of a genuine occupatinal demand requiring lived experience etc) <br>Apologies and restitution to members of the LGBTQIA community who have in the past or are still ongoingly experiencing discrimination in their place of work or from organisations such as the Police. <br>Free, widely available sexual health education and health services. 
+---
+PostID: I50802
+Title: Equality and Equity
+Date: 25/08/2025
+Category: Imaginaries
+Tags: Equality, Bias
+Content: Equality and equity to address inherent bias of the society we exist in
+---
+PostID: F50802
+Title: Equitable Access to Care and Oportunities
+Date: 25/08/2025
+Category: Futures
+Tags: Equality
+Content: Difficult to imagine; ideally an equitable level of access to care and opportunities for everyone regardless of orientation
+---
 PostID: I50801
 Title: Actual Justice - IS Queer
 Date: 22/08/2025
@@ -12,14 +54,14 @@ Category: Futures
 Tags: Collective Justice, Harm, Systems, State
 Content: I'm not sure I think of justice as something to be attained. I imagine working collectively on getting better at DOING justice in the everyday, and that a future that is more just than the present would be one where more people have the skills to reflect critically, repair harm, and build more equitable systems. A more just future would require us to stop out-sourcing our ideas of justice to the State, which consistently fails to deliver it, and start practicing it in the everyday. I see snatches of this way of being in my life, in tiny spaces and interactions, and these are the same spaces that are the only ones I truly feel safe.
 ---
-PostID: I5701
+PostID: I50701
 Title: A Tool/ A Lens 
 Date: 28/07/2025
 Category: Imaginaries
 Tags: Justice, Queer History, Acknowledgment, Authority
 Content: I'm not too sure. Perhaps justice for our historical mistreatment, and also the mistreatment we still face. It's an acknowledgement of the history, and the current barriers posed by the status quo. A tool to question authority and lens through which to understand politics and society.
 ---
-PostID: F5701
+PostID: F50701
 Title: Just for Everyone
 Date: 28/07/2025
 Category: Futures
@@ -67,7 +109,6 @@ Date: 2025-01-15
 Category: Researcher Posts
 Tags: Queer quotes
 Content: "Kaleidoscopic justice is justice as a constantly shifting pattern, continually refracted through new experiences and perspectives, with multiple beginnings and no finite ending. Justice as a pluralistic, lived, evolving experience. Embedded within this approach are various justice themes – consequences, recognition, dignity, voice, prevention and connectedness – which embody and exemplify the constantly changing pattern of kaleidoscopic justice." <br> - Clare McGlynn & Nicole Westmarland, Kaleidoscopic Justice: Sexual Violence and Victim-Survivors’ Perceptions of Justice
-
 
 
 
