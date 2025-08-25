@@ -1,5 +1,5 @@
 PostID: I50804
-Title: Conceptualised from the Start
+Title: Conceptualised from the start
 Date: 25/08/2025
 Category: Imaginaries
 Tags: Systems, Inclusion, Access
@@ -20,7 +20,7 @@ Tags: Discrimination
 Content: Freedom from discrimination.
 ---
 PostID: F50803
-Title: 
+Title: No org should be allowed to discriminate
 Date: 25/08/2025
 Category: Futures
 Tags: Discrimination, Apology, Police, Health, Education
@@ -34,7 +34,7 @@ Tags: Equality, Bias
 Content: Equality and equity to address inherent bias of the society we exist in
 ---
 PostID: F50802
-Title: Equitable Access to Care and Oportunities
+Title: Equitable access to care and opportunities
 Date: 25/08/2025
 Category: Futures
 Tags: Equality
@@ -109,6 +109,7 @@ Date: 2025-01-15
 Category: Researcher Posts
 Tags: Queer quotes
 Content: "Kaleidoscopic justice is justice as a constantly shifting pattern, continually refracted through new experiences and perspectives, with multiple beginnings and no finite ending. Justice as a pluralistic, lived, evolving experience. Embedded within this approach are various justice themes – consequences, recognition, dignity, voice, prevention and connectedness – which embody and exemplify the constantly changing pattern of kaleidoscopic justice." <br> - Clare McGlynn & Nicole Westmarland, Kaleidoscopic Justice: Sexual Violence and Victim-Survivors’ Perceptions of Justice
+
 
 
 
