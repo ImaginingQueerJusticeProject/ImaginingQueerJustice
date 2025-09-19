@@ -1,3 +1,17 @@
+PostID: I50901
+Title: Anything Really
+Date: 19/09/2025
+Category: Imaginaries
+Tags: Health, Rights, Law
+Content: Could be anything really. Could refer to legislation in terms of improved healthcare and/or rights, or it could just be about generic law reforms.
+---
+PostID: F50901
+Title: Easy change, ease of access
+Date: 19/09/2025
+Category: Futures
+Tags: Systems, Health, Education
+Content: Easy name and gender change, clearly defined definitions of gender identities, including an ambiguous term for those who have made up a new name that will probably go out of fashion but it will affirm their gender at the time they do their forms (usually in the non-binary family as many don’t grasp the concept of what that word/term means. Added to that, ease of access to gender affirming care under supervision of assigned professionals so as to avoid 1) misinformation, 2) malpractice, 3) inconsistency of care. And of course better education on what it means to be in the trans umbrella, understanding hormone therapy and blockers, understanding surgery outcomes, & how not to be a jerk to someone who is trans.
+---
 PostID: I50804
 Title: Conceptualised from the start
 Date: 25/08/2025
@@ -109,6 +123,7 @@ Date: 2025-01-15
 Category: Researcher Posts
 Tags: Queer quotes
 Content: "Kaleidoscopic justice is justice as a constantly shifting pattern, continually refracted through new experiences and perspectives, with multiple beginnings and no finite ending. Justice as a pluralistic, lived, evolving experience. Embedded within this approach are various justice themes – consequences, recognition, dignity, voice, prevention and connectedness – which embody and exemplify the constantly changing pattern of kaleidoscopic justice." <br> - Clare McGlynn & Nicole Westmarland, Kaleidoscopic Justice: Sexual Violence and Victim-Survivors’ Perceptions of Justice
+
 
 
 
