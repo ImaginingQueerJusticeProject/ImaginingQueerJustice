@@ -13,7 +13,7 @@ Tags: Rights, Education, Research
 Content: LGBTIQA+ rights considered in all policy and justice based discussions. Also LGBTIQA+ research that centres lived experience is considered as essential to a robust democracy and university sector.
 ---
 PostID: I50904
-Title: Safe and accessibile
+Title: Safe and accessible
 Date: 23/09/2025
 Category: Imaginaries
 Tags: Safety, Access, Systems
@@ -179,6 +179,7 @@ Date: 2025-01-15
 Category: Researcher Posts
 Tags: Queer quotes
 Content: "Kaleidoscopic justice is justice as a constantly shifting pattern, continually refracted through new experiences and perspectives, with multiple beginnings and no finite ending. Justice as a pluralistic, lived, evolving experience. Embedded within this approach are various justice themes – consequences, recognition, dignity, voice, prevention and connectedness – which embody and exemplify the constantly changing pattern of kaleidoscopic justice." <br> - Clare McGlynn & Nicole Westmarland, Kaleidoscopic Justice: Sexual Violence and Victim-Survivors’ Perceptions of Justice
+
 
 
 
