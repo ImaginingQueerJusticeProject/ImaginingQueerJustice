@@ -1,3 +1,31 @@
+PostID: I50907
+Title: The lifeblood of history
+Date: 24/09/2025
+Category: Imaginaries
+Tags: Queer History, Law, Freedom
+Content: Honouring our history, the sacrifices made from queer people in the past who were harmed for simply existing, who's advocacy means I can not be imprisoned for loving my partner, or be medically detained or harmed for being transgender. Queer justice is drawing on the lifeblood of history and making waves for the next generation, where they can live without fear and thrive in ways I could only dream about.
+---
+PostID: F50907
+Title: The humanity we deserve
+Date: 24/09/2025
+Category: Futures
+Tags: Queer Justice, Intersectionality, Systems, Law 
+Content: I balance the fine line of wanting to integrate queer and disability justice into a future that is slow and incremental, because the gears of change are under the pressure of a capitalist society that supports hetero, cisnormative ways of doing. Radical change would be having to break all the rules, re-create everything to a queer vision (community, platonic love, chosen family as legally supported, free access to gender affirming healthcare, queer sex education, with organisatons being ran by and for queer people, alternatives to the criminal processing system for everyone who needs it). The vision is very out of reach. But justice - a word that means something different for everyone - to me, at least, means giving queer people the humanity we deserve, opportunities and freedom. In terms of legal justice - these all intersect. I cannot have faith in the medical system if they only consider my sex. I cannot feel protected by the state if they refuse to recognise my gender or diverse relationships. The future of justice for queer people includes our intersecting identities (class, disability, race, ethnic heritage, customs and culture). I cannot advocate queer justice on behalf of any other queer person, which is why it is so hard. cis/het/white people have a base to work with, they have shared interests, but queer justice means justice and liberation for all of our identities. Sorry for the rant...
+---
+PostID: I50906
+Title: Dismantles, rather than reproduces
+Date: 24/09/2025
+Category: Imaginaries
+Tags: Law, Equality, Systems
+Content: Social, political and legal equity for all LGBTQ+ people in a way that dismantles, rather than reproduces, existing white supremacist cisheteronormative systems.
+---
+PostID: F50906
+Title: Freedom for all
+Date: 24/09/2025
+Category: Futures
+Tags: Police, Freedom
+Content: Freedom for all and lack of policing of our selves, bodies, identities, relationships, genders, and lives
+---
 PostID: I50905
 Title: Social and epistemic justice
 Date: 23/09/2025
@@ -179,6 +207,7 @@ Date: 2025-01-15
 Category: Researcher Posts
 Tags: Queer quotes
 Content: "Kaleidoscopic justice is justice as a constantly shifting pattern, continually refracted through new experiences and perspectives, with multiple beginnings and no finite ending. Justice as a pluralistic, lived, evolving experience. Embedded within this approach are various justice themes – consequences, recognition, dignity, voice, prevention and connectedness – which embody and exemplify the constantly changing pattern of kaleidoscopic justice." <br> - Clare McGlynn & Nicole Westmarland, Kaleidoscopic Justice: Sexual Violence and Victim-Survivors’ Perceptions of Justice
+
 
 
 
