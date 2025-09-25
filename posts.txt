@@ -1,22 +1,92 @@
+PostID: I50912
+Title: Accept and celebrate
+Date: 25/09/2025
+Category: Imaginaries
+Tags: Systems 
+Content: Queer justice is about a normalisation of institutions and systems, including all levels of government, which accept and celebrate our LGBTIQA+ communities in complete flourishing
+---
+PostID: F50912
+Title: The absolute pinnacle
+Date: 25/09/2025
+Category: Futures
+Tags: Rights 
+Content: A just future is about the diverse recognition of human rights as the absolute pinnacle of successful living
+---
+PostID: I50911
+Title: Equally recognised and celebrated
+Date: 25/09/2025
+Category: Imaginaries
+Tags: Equality
+Content: When justice is evaluated and applied fairly regardless of gender , gender identity or sexual identity. Where everyone’s contributions are equally recognised and celebrated
+---
+PostID: F50911
+Title: No reason to feel uncomfortable
+Date: 25/09/2025
+Category: Futures
+Tags: Equality, Law and the courts
+Content: One where a queer person does has no reason to feel uncomfortable to stand in front of the law compared to the rest of Australia
+---
+PostID: I50910
+Title: In touch with the way queers live our lives
+Date: 25/09/2025
+Category: Imaginaries
+Tags: Law and the courts, Equality, Education
+Content: Lawmakers and law enforcement being in touch with the way queers, including young queers, live our lives; eg they should have a level of basic knowledge about things like furries, femboys, different types of kinks, queer anime art etc. so that we don't fall victim to their ignorance about such topics when writing or enforcing laws
+---
+PostID: F50910
+Title: Laws that aren’t weaponised
+Date: 25/09/2025
+Category: Futures
+Tags: Law and the courts, Equality, Censorship
+Content: Laws should be less vaguely worded, to make it harder for them to be weaponised against the LGBT+ and kink communities. E.g. laws about CP should be worded such that they don't target consenting adult ageplayers, laws about sexualised depictions of animals should be worded such that they don't target cartoony furry art
+---
+PostID: I50909
+Title: Equal rights and no discrimination
+Date: 25/09/2025
+Category: Imaginaries
+Tags: Equality, Discrimination
+Content: having equal rights and no discrimination
+---
+PostID: F50909
+Title: Discrimination by design
+Date: 25/09/2025
+Category: Futures
+Tags: Equality, Rights, Discrimination, Health, Access and inclusion
+Content: having equal rights and no discrimination. and not just deliberate discimraintion, like the religious exemptions that allow people to to fire you for being gay (and yes they do this) but also the discrimination by design like being socially infertile and not being able to access medicare for IVF in some states etc or access at all!
+---
+PostID: I50908
+Title: Recognised and respected
+Date: 25/09/2025
+Category: Imaginaries
+Tags: Rights, Law and the courts, Equality
+Content: Ultimately I want to see that people of all sexualities and genders (including asexual and agender people) have their lived identities recognised and respected; and are treated as having equal rights under law. Those rights are defended, and the necessary supports are provided to recognise, protect and defend those rights.
+---
+PostID: F50908
+Title: Like describing the universe
+Date: 25/09/2025
+Category: Futures
+Tags: Intersectionality, Systems, Law and the courts, Health, Equality
+Content: This is like asking us to describe the universe! But some things are particularly essential to a just future for queer people. That includes equitable healthcare provision (which means much, much more inclusive health research and a major reform of medical education), marriage and family law, and political representation and visibility of queer people who advocate inclusively for diverse queer communities, especially those at major intersections - disability, religious diaspora, Black, Indigenous - where representatives are often forced to choose between advocating for one "identity" and another.
+---
 PostID: I50907
 Title: The lifeblood of history
 Date: 24/09/2025
 Category: Imaginaries
-Tags: Queer History, Law, Freedom
+Tags: Queer history, Law and the courts, Freedom
 Content: Honouring our history, the sacrifices made from queer people in the past who were harmed for simply existing, who's advocacy means I can not be imprisoned for loving my partner, or be medically detained or harmed for being transgender. Queer justice is drawing on the lifeblood of history and making waves for the next generation, where they can live without fear and thrive in ways I could only dream about.
 ---
 PostID: F50907
 Title: The humanity we deserve
 Date: 24/09/2025
 Category: Futures
-Tags: Queer Justice, Intersectionality, Systems, Law 
+Tags: Queer justice, Intersectionality, Systems, Law and the courts
 Content: I balance the fine line of wanting to integrate queer and disability justice into a future that is slow and incremental, because the gears of change are under the pressure of a capitalist society that supports hetero, cisnormative ways of doing. Radical change would be having to break all the rules, re-create everything to a queer vision (community, platonic love, chosen family as legally supported, free access to gender affirming healthcare, queer sex education, with organisatons being ran by and for queer people, alternatives to the criminal processing system for everyone who needs it). The vision is very out of reach. But justice - a word that means something different for everyone - to me, at least, means giving queer people the humanity we deserve, opportunities and freedom. In terms of legal justice - these all intersect. I cannot have faith in the medical system if they only consider my sex. I cannot feel protected by the state if they refuse to recognise my gender or diverse relationships. The future of justice for queer people includes our intersecting identities (class, disability, race, ethnic heritage, customs and culture). I cannot advocate queer justice on behalf of any other queer person, which is why it is so hard. cis/het/white people have a base to work with, they have shared interests, but queer justice means justice and liberation for all of our identities. Sorry for the rant...
 ---
 PostID: I50906
 Title: Dismantles, rather than reproduces
 Date: 24/09/2025
 Category: Imaginaries
-Tags: Law, Equality, Systems
+Tags: Law and the courts, Equality, Systems
 Content: Social, political and legal equity for all LGBTQ+ people in a way that dismantles, rather than reproduces, existing white supremacist cisheteronormative systems.
 ---
 PostID: F50906
@@ -44,14 +114,14 @@ PostID: I50904
 Title: Safe and accessible
 Date: 23/09/2025
 Category: Imaginaries
-Tags: Safety, Access, Systems
+Tags: Safety, Access and inclusion, Systems, Law and the courts
 Content: Equal access to justice for queer people, justice systems that are safe and accessible to queer people
 ---
 PostID: F50904
 Title: Safe for all
 Date: 23/09/2025
 Category: Futures
-Tags: Safety, Systems
+Tags: Safety, Systems, Law and the courts
 Content: Justice systems that are safe for all people (queer, POC, women, Indigenous)
 ---
 PostID: I50903
@@ -69,7 +139,7 @@ Tags: Freedom
 Content: Where we are free to be, especially trans, non-binary, sistergirls and brotherboys.
 ---
 PostID: I50902
-Title: Equality and Equity
+Title: Equality and equity
 Date: 23/09/2025
 Category: Imaginaries
 Tags: Equality
@@ -83,10 +153,10 @@ Tags: Queer justice
 Content: A future that is stable in its identification of queer issues.
 ---
 PostID: I50901
-Title: Anything Really
+Title: Anything really
 Date: 19/09/2025
 Category: Imaginaries
-Tags: Health, Rights, Law
+Tags: Health, Rights, Law and the courts
 Content: Could be anything really. Could refer to legislation in terms of improved healthcare and/or rights, or it could just be about generic law reforms.
 ---
 PostID: F50901
@@ -100,18 +170,18 @@ PostID: I50804
 Title: Conceptualised from the start
 Date: 25/08/2025
 Category: Imaginaries
-Tags: Systems, Inclusion, Access
+Tags: Systems, Access and inclusion
 Content: Queer justice is a justice system built with queer people conceptualised from the start, as well as other marginalised peoples, rather than their inclusion being built on amendments and after thoughts. This allows equitable access to justice.
 ---
 PostID: F50804
 Title: Dismantling/Utilising
 Date: 25/08/2025
 Category: Futures
-Tags: State, Violence, Police
+Tags: The state, Violence and harm, Police
 Content: A just future to me looks to the dismantling of police and prisons, utilising a system that does not require the use of state sanctioned violence. This state violence often manifests in the oppression of marginalised communities and along lines of governmental biases
 ---
 PostID: I50803
-Title: Freedom from discrimination.
+Title: Freedom from discrimination
 Date: 25/08/2025
 Category: Imaginaries
 Tags: Discrimination
@@ -125,10 +195,10 @@ Tags: Discrimination, Apology, Police, Health, Education
 Content: Get rid of that religious discrimination bill bullshit. No organisation should be allowed to discriminate on the basis of gender identity or sexuality. Especially none receiving government money (ahem- private schools, private hospitals)  Except in cases of 'positive discrimination' (e.g. a female or LGBTQIA identified position because of a genuine occupatinal demand requiring lived experience etc) <br>Apologies and restitution to members of the LGBTQIA community who have in the past or are still ongoingly experiencing discrimination in their place of work or from organisations such as the Police. <br>Free, widely available sexual health education and health services. 
 ---
 PostID: I50802
-Title: Equality and Equity
+Title: Equality and equity
 Date: 25/08/2025
 Category: Imaginaries
-Tags: Equality, Bias
+Tags: Equality
 Content: Equality and equity to address inherent bias of the society we exist in
 ---
 PostID: F50802
@@ -139,31 +209,31 @@ Tags: Equality
 Content: Difficult to imagine; ideally an equitable level of access to care and opportunities for everyone regardless of orientation
 ---
 PostID: I50801
-Title: Actual Justice - IS Queer
+Title: Actual justice - IS queer
 Date: 22/08/2025
 Category: Imaginaries
-Tags: Collective Justice, Identity, Acceptance, Harm
+Tags: Collective justice, Identity, Violence and harm
 Content: I think justice - actual justice - IS queer. It requires accepting multiplicities, engagement with the fact that none of us are one thing, all of us use and experience harm at different points. Justice is a collective process, not something that can be dictated, and is contingent on people in that process being able to see that identity is fluid and people can and do change in relationship with each other
 ---
 PostID: F50801
-Title: DOING Justice in the Everyday
+Title: DOING justice in the everyday
 Date: 22/08/2025
 Category: Futures
-Tags: Collective Justice, Harm, Systems, State
+Tags: Collective justice, Violence and harm, Systems, The state
 Content: I'm not sure I think of justice as something to be attained. I imagine working collectively on getting better at DOING justice in the everyday, and that a future that is more just than the present would be one where more people have the skills to reflect critically, repair harm, and build more equitable systems. A more just future would require us to stop out-sourcing our ideas of justice to the State, which consistently fails to deliver it, and start practicing it in the everyday. I see snatches of this way of being in my life, in tiny spaces and interactions, and these are the same spaces that are the only ones I truly feel safe.
 ---
 PostID: I50701
-Title: A Tool/ A Lens 
+Title: A tool/ a lens 
 Date: 28/07/2025
 Category: Imaginaries
-Tags: Justice, Queer History, Acknowledgment, Authority
+Tags: Queer history
 Content: I'm not too sure. Perhaps justice for our historical mistreatment, and also the mistreatment we still face. It's an acknowledgement of the history, and the current barriers posed by the status quo. A tool to question authority and lens through which to understand politics and society.
 ---
 PostID: F50701
-Title: Just for Everyone
+Title: Just for everyone
 Date: 28/07/2025
 Category: Futures
-Tags: Justice, Futurity, Community, Courts
+Tags: Community, Law and the courts
 Content: A just future in my mind looks just for everyone, or as just as can be. It's when two people can hold hands outside without thinking about what people may think. When being queer is as normal as being tall or having brown eyes. I think a just future involves an understanding of our past, and holding people to account for their actions and words. I don't necessarily think justice in this way needs to mete by the courts (though where necessary it should be). Justice can be enacted by communities by speaking out against those who use hateful language, but also educating them and building community. A just future is as much about connection and respect, as it is about recognition, and changing the status quo. 
 ---
 PostID: 004
@@ -207,11 +277,3 @@ Date: 2025-01-15
 Category: Researcher Posts
 Tags: Queer quotes
 Content: "Kaleidoscopic justice is justice as a constantly shifting pattern, continually refracted through new experiences and perspectives, with multiple beginnings and no finite ending. Justice as a pluralistic, lived, evolving experience. Embedded within this approach are various justice themes – consequences, recognition, dignity, voice, prevention and connectedness – which embody and exemplify the constantly changing pattern of kaleidoscopic justice." <br> - Clare McGlynn & Nicole Westmarland, Kaleidoscopic Justice: Sexual Violence and Victim-Survivors’ Perceptions of Justice
-
-
-
-
-
-
-
-
