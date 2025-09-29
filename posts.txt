@@ -1,3 +1,51 @@
+PostID: I50907
+Title: Approach and accommodate
+Date: 29/09/2025
+Category: Imaginaries
+Tags: Equality, Systems, Law and the courts
+Content: Equity in how justice systems (not necessarily only legal) approach and accommodate queer experiences
+---
+PostID: F50917
+Title: Extremely difficult to imagine
+Date: 29/09/2025
+Category: Futures
+Tags: Intersectionality
+Content: This is difficult to articulate. The increase in injustices around the globe, not only for queer people but for other marginalised groups make it extremely difficult to imagine a just future
+---
+PostID: I50916
+Title: Past and current issues
+Date: 29/09/2025
+Category: Imaginaries
+Tags: Equality, Rights, Law and the courts, Queer history
+Content: Equitable legal rights for queer people; reparations for past and current issues; advocacy nationally and internationally for queer rights
+---
+PostID: F50916
+Title: Represented, understood, enacted
+Date: 29/09/2025
+Category: Futures
+Tags: Equality, Law and the courts, Rights
+Content: Queer people are equally represented in politics; legal and social issues for queer people are understood and prioritised in public policy; rights for queer people are enacted; progression of social attitudes towards queer people
+---
+PostID: I50915
+Title: Helping to eliminate discrimination
+Date: 29/09/2025
+Category: Imaginaries
+Tags: Discrimination
+Content: Helping to eliminate discrimination
+PostID: F50915
+Title: Simple freedoms
+Date: 29/09/2025
+Category: Futures
+Tags: Equality, Education
+Content: More simple freedoms for queer people that heterosexuals have enjoyed for centuries <br> Eg holding hands in public <br> Never having to correct people when they assume your parter is the opposite sex pronoun <br> Never having to feel uncomfortable explaining to the school that my child has two mums
+---
+PostID: F50914
+Title: Simply marriage
+Date: 29/09/2025
+Category: Futures
+Tags: Equality, Safety
+Content: 1. It Not being called gay marriage but simply marriage<br> 2. Walking down the street and not feeling uncomfortable holding hands<br> 3. Having people not automatically assume I’m With a male partner
+---
 PostID: I50913
 Title: At its best
 Date: 26/09/2025
@@ -291,4 +339,5 @@ Date: 2025-01-15
 Category: Researcher Posts
 Tags: Queer quotes
 Content: "Kaleidoscopic justice is justice as a constantly shifting pattern, continually refracted through new experiences and perspectives, with multiple beginnings and no finite ending. Justice as a pluralistic, lived, evolving experience. Embedded within this approach are various justice themes – consequences, recognition, dignity, voice, prevention and connectedness – which embody and exemplify the constantly changing pattern of kaleidoscopic justice." <br> - Clare McGlynn & Nicole Westmarland, Kaleidoscopic Justice: Sexual Violence and Victim-Survivors’ Perceptions of Justice
+
 
