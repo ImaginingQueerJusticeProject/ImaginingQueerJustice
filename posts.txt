@@ -1,3 +1,17 @@
+PostID: I51001
+Title: The way I exist
+Date: 01/10/2025
+Category: Imaginaries
+Tags: Discrimination
+Content: I feel like queer justice is when the discrimination i receive for existing way i exist is punished severely
+---
+PostID: F51001
+Title: Liberation for all in all forms
+Date: 01/10/2025
+Category: Futures
+Tags: Racism, Intersectionality
+Content: When people who perpetuate racism in queer community get publically shamed. Its a world where whiteness gets decentred. I want a world where people in australia actually care more about racism than being called racist. The queer community as it is now cannot be called just. The racism and transphobia that i get to witness is unfair and cruel. I hate the way it is now. Until it returns to being liberation for all in all forms it cannot call itself just.
+---
 PostID: I50907
 Title: Approach and accommodate
 Date: 29/09/2025
@@ -339,5 +353,6 @@ Date: 2025-01-15
 Category: Researcher Posts
 Tags: Queer quotes
 Content: "Kaleidoscopic justice is justice as a constantly shifting pattern, continually refracted through new experiences and perspectives, with multiple beginnings and no finite ending. Justice as a pluralistic, lived, evolving experience. Embedded within this approach are various justice themes – consequences, recognition, dignity, voice, prevention and connectedness – which embody and exemplify the constantly changing pattern of kaleidoscopic justice." <br> - Clare McGlynn & Nicole Westmarland, Kaleidoscopic Justice: Sexual Violence and Victim-Survivors’ Perceptions of Justice
+
 
 
