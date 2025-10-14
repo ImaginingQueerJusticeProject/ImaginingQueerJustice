@@ -1,3 +1,45 @@
+PostID: I51004
+Title: A very big question
+Date: 14/10/2025
+Category: Imaginaries
+Tags: Access and inclusion, Discrimination, Equality, Freedom, Intersectionality, Law and the courts, Safety, The state
+Content: This is a very big question! <br> The first thing that comes to mind for me is access to legal processes, and especially the need for queer people to have access to legal services that are free, safe and competent in working with queer people. <br> But then I reflect that access to legal processes will only go so far if the law itself remains unjust. <br> So the second thing that comes to mind for me is laws that are just for queer people. This must include laws that reflect an understanding of the lived experience of queer people, including the reality of living as a queer person within an often queerphobic society. <br> But then I reflect on the broader changes that would be required in order to produce just laws for queer people, and also the fact that just laws for queer people would need to drive broader change in society, politics and culture. <br> So this brings me to answer along the lines that queer justice is a social reality where people are free to be queer and queer people are free to live as their authentic selves, with meaningful community and with equality, safety and inclusion. <br> But I imagine that many people would find an answer like that to be frustratingly vague. So I think there is value in speaking to both the general concept (freedom, equality, safety, inclusion, etc.) and specific examples (I have focused on law, but I might also say health, housing, etc.). <br>
+---
+PostID: F51004
+Title: Unprecedented diversity
+Date: 14/10/2025
+Category: Futures
+Tags: Access and inclusion, Equality, Freedom, Intersectionality
+Content: From my perspective, a just future might look like a future in which queer people and queerness are so normalised that there is no need to think much about queer justice - a future in which queer justice is boring, not because it isn’t important, but because it is so ordinary as to not call for much thought. <br> I would like to be clear that I am not imagining a future in which queer people have assimilated into the existing norms. The future I am imagining has both unprecedented diversity and unprecedented respect for diversity. The point is that nobody is losing sleep over queerness, as no-one is queerphobic anymore and queer people are free to get on with their lives.   
+---
+PostID: I51003
+Title: The whole world being a safe space
+Date: 14/10/2025
+Category: Imaginaries
+Tags: Access and inclusion, Community, Safety
+Content: Queer justice is not simply having 'safe spaces' to exist as queer but the whole world being a safe space. For inclusivity and community to be the norm that that world holds itself to.
+---
+PostID: F51003
+Title: Queerness exists easily and without question
+Date: 14/10/2025
+Category: Futures
+Tags: Equality
+Content: Not feeling othered, just existing as queer. For queerness to not necessarily be the norm but for the norm to be that queerness exists easily and without question in both public and private arenas. 
+---
+PostID: I51002
+Title: Queer justice is universal
+Date: 14/10/2025
+Category: Imaginaries
+Tags: Community, Intersectionality
+Content: The dismantling of the attitudes and structures built by the queer community that hoard the experiences of queerness, then ultimately expanding it across all people while making it a more expansive experience itself. Short answer: queer justice is universal, not exclusive as it is currently.
+---
+PostID: F51002
+Title: The queer community itself must face its own injustices.
+Date: 14/10/2025
+Category: Futures
+Tags: Community, Equality, Intersectionality
+Content: It would be nice to look at what a broader societal just future looks like in this context, but first the queer community itself must face its own injustices. While an LG minority dictates to a BTQ+ majority, steals resources, refuses to cede any power and influence, we will have neither a just queer future nor a just future. A just future looks like emancipation.
+---
 PostID: I51001
 Title: The way I exist
 Date: 01/10/2025
@@ -353,6 +395,7 @@ Date: 2025-01-15
 Category: Researcher Posts
 Tags: Queer quotes
 Content: "Kaleidoscopic justice is justice as a constantly shifting pattern, continually refracted through new experiences and perspectives, with multiple beginnings and no finite ending. Justice as a pluralistic, lived, evolving experience. Embedded within this approach are various justice themes – consequences, recognition, dignity, voice, prevention and connectedness – which embody and exemplify the constantly changing pattern of kaleidoscopic justice." <br> - Clare McGlynn & Nicole Westmarland, Kaleidoscopic Justice: Sexual Violence and Victim-Survivors’ Perceptions of Justice
+
 
 
 
