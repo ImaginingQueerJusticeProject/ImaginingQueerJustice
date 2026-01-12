@@ -1,3 +1,17 @@
+PostID: I60101
+Title: It is about community
+Date: 12/01/2026
+Category: Imaginaries
+Tags: Collective justice, Community, Intersectionality, Rights
+Content: Queer justice is about fixing the systems that make queer people unsafe or worn down, not just giving a few of us rights and calling it a day. It is not only about laws or visibility, but about being able to live a normal, decent life without always having to explain yourself or fight to be respected. <br> It means recognising that not all queer people have the same experience. Justice has to include people who are also marginalised in other ways, like by race, class, disability, body size, gender expression or being neurodivergent. If things only work for the most privileged queer people, then it is not really justice. <br> Queer justice is collective. It is about community, care and looking out for each other, not just individual success stories. It values things like chosen family, mutual aid and support, not just policy changes. <br> And it is not about being acceptable to straight society. It leaves room for anger, joy, grief and difference. It is about being able to exist fully and safely, as you are. <br> Basically, queer justice is not about fitting in. It is about changing things so everyone can live well.
+---
+PostID: F60101
+Title: A just future values care
+Date: 12/01/2026
+Category: Futures
+Tags: Collective justice, Community, Intersectionality, Safety
+Content: A just future is one where people’s basic needs are met without having to prove their worth. Housing, healthcare, safety, rest and community are normal, not things you have to fight for. <br> It is a future where queer people can live openly and safely, but also where justice is not limited to identity alone. It looks at the whole picture, including climate, work, disability, migration, class and care. No one is left carrying the cost of systems that do harm. <br> A just future values care over profit. It recognises unpaid labour, emotional labour and community work as real work. It makes space for different bodies, minds and ways of living, instead of forcing everyone to fit one narrow idea of productivity or success. <br> It is collective, not individual. Progress is measured by how the most marginalised people are doing, not by how comfortable the most privileged feel. <br> Most of all, a just future feels liveable. People have time to rest, make art, be in nature, build relationships and feel joy. Justice is not only about survival. It is about being able to live well.
+---
 PostID: I51004
 Title: A very big question
 Date: 14/10/2025
@@ -395,6 +409,7 @@ Date: 2025-01-15
 Category: Researcher Posts
 Tags: Queer quotes
 Content: "Kaleidoscopic justice is justice as a constantly shifting pattern, continually refracted through new experiences and perspectives, with multiple beginnings and no finite ending. Justice as a pluralistic, lived, evolving experience. Embedded within this approach are various justice themes – consequences, recognition, dignity, voice, prevention and connectedness – which embody and exemplify the constantly changing pattern of kaleidoscopic justice." <br> - Clare McGlynn & Nicole Westmarland, Kaleidoscopic Justice: Sexual Violence and Victim-Survivors’ Perceptions of Justice
+
 
 
 
