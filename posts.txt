@@ -1,3 +1,17 @@
+PostID: I60201
+Title: Decent and fulfilling
+Date: 10/02/2026
+Category: Imaginaries
+Tags: Rights
+Content: A right for queer people to decent and fulfilling lives.
+---
+PostID: F60201
+Title: Freedom to be queer
+Date: 10/02/2026
+Category: Futures
+Tags: Freedom, Access and inclusion
+Content: Freedom to be queer, access to the necessities of life
+---
 PostID: I60101
 Title: It is about community
 Date: 12/01/2026
@@ -409,6 +423,7 @@ Date: 2025-01-15
 Category: Researcher Posts
 Tags: Queer quotes
 Content: "Kaleidoscopic justice is justice as a constantly shifting pattern, continually refracted through new experiences and perspectives, with multiple beginnings and no finite ending. Justice as a pluralistic, lived, evolving experience. Embedded within this approach are various justice themes – consequences, recognition, dignity, voice, prevention and connectedness – which embody and exemplify the constantly changing pattern of kaleidoscopic justice." <br> - Clare McGlynn & Nicole Westmarland, Kaleidoscopic Justice: Sexual Violence and Victim-Survivors’ Perceptions of Justice
+
 
 
 
