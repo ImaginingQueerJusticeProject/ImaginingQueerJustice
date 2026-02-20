@@ -1,3 +1,45 @@
+PostID: I60204
+Title: Equal rights to all
+Date: 20/02/2026
+Category: Imaginaries
+Tags: Rights
+Content: Equal rights to all
+---
+PostID: F60204
+Title: Discrimination laws covering the Queer community
+Date: 20/02/2026
+Category: Futures
+Tags: Discrimination, Law and the courts
+Content: Discrimination laws covering the Queer community, though I should disclose I don’t know if the current discrimination laws covering the Queer community.
+---
+PostID: I60203
+Title: Live equally and peacefully
+Date: 20/02/2026
+Category: Imaginaries
+Tags: Equality, Systems
+Content: I think queer justice is a justice system that does not persecute queer people for who they are, and creates legislation and space in the system for true equity of queer people and their diverse needs to allow them to live equally and peacefully with others.
+---
+PostID: F60203
+Title: Real respect
+Date: 20/02/2026
+Category: Futures
+Tags: Discrimination, Equality, Freedom, Intersectionality, Law and the courts, Safety, The state
+Content: I think a just future looks like sex work being made legal and not prosecuted, people treated according to their gender by authorities with real respect, police not enacting higher levels of violence against the queer (especially trans and black) community and then facing actual consequences for their actions, and care systems in place that support and don't add to the legal troubles of Queer people who are at higher risk of things like drug abuse due to how society is structured and treats queer people.
+---
+PostID: I60202
+Title: Healing 
+Date: 20/02/2026
+Category: Imaginaries
+Tags:
+Content: Healing 
+---
+PostID: F60202
+Title: Going to have right 
+Date: 20/02/2026
+Category: Futures
+Tags: Rights
+Content: We are going to have right
+---
 PostID: I60201
 Title: Decent and fulfilling
 Date: 10/02/2026
@@ -423,6 +465,7 @@ Date: 2025-01-15
 Category: Researcher Posts
 Tags: Queer quotes
 Content: "Kaleidoscopic justice is justice as a constantly shifting pattern, continually refracted through new experiences and perspectives, with multiple beginnings and no finite ending. Justice as a pluralistic, lived, evolving experience. Embedded within this approach are various justice themes – consequences, recognition, dignity, voice, prevention and connectedness – which embody and exemplify the constantly changing pattern of kaleidoscopic justice." <br> - Clare McGlynn & Nicole Westmarland, Kaleidoscopic Justice: Sexual Violence and Victim-Survivors’ Perceptions of Justice
+
 
 
 
