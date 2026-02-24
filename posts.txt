@@ -1,3 +1,17 @@
+PostID: I60205
+Title: Through the lens of the queer community
+Date: 24/02/2026
+Category: Imaginaries
+Tags: Equality
+Content: Hopefully equal justice through the lens of the queer community
+---
+PostID: F60205
+Title: Justice delivered
+Date: 24/02/2026
+Category: Futures
+Tags: Equality
+Content: Justice delivered regardless of race, sex and sexual identity 
+---
 PostID: I60204
 Title: Equal rights to all
 Date: 20/02/2026
@@ -465,6 +479,7 @@ Date: 2025-01-15
 Category: Researcher Posts
 Tags: Queer quotes
 Content: "Kaleidoscopic justice is justice as a constantly shifting pattern, continually refracted through new experiences and perspectives, with multiple beginnings and no finite ending. Justice as a pluralistic, lived, evolving experience. Embedded within this approach are various justice themes – consequences, recognition, dignity, voice, prevention and connectedness – which embody and exemplify the constantly changing pattern of kaleidoscopic justice." <br> - Clare McGlynn & Nicole Westmarland, Kaleidoscopic Justice: Sexual Violence and Victim-Survivors’ Perceptions of Justice
+
 
 
 
