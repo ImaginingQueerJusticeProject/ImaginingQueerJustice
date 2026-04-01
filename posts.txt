@@ -2,14 +2,14 @@ PostID: I60404
 Title: Universal, equal
 Date: 01/04/2026
 Category: Imaginaries
-Tags:
+Tags: Equality and equity, Systems
 Content: The inequality of access to rights, health, etc between queer and non-queer folk are addressed and systemic actions are taken to ensure there is universal, equal opportunities for all, regardless of sexual orientation, gender or identity.
 ---
 PostID: F60404
 Title: Queer justice and the protection of queer lives
 Date: 01/04/2026
 Category: Futures
-Tags:
+Tags: Discrimination, Education, Violence and harm
 Content: Education on marriage equality, gender rights is instilled in public education. There are protections in place to counteract acts of hate and violence against the community. Queer justice and the protection of queer lives are enshrined within legislative channels.
 ---
 PostID: I60403
