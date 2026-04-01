@@ -1,3 +1,59 @@
+PostID: I60404
+Title: Universal, equal
+Date: 01/04/2026
+Category: Imaginaries
+Tags:
+Content: The inequality of access to rights, health, etc between queer and non-queer folk are addressed and systemic actions are taken to ensure there is universal, equal opportunities for all, regardless of sexual orientation, gender or identity.
+---
+PostID: F60404
+Title: Queer justice and the protection of queer lives
+Date: 01/04/2026
+Category: Futures
+Tags:
+Content: Education on marriage equality, gender rights is instilled in public education. There are protections in place to counteract acts of hate and violence against the community. Queer justice and the protection of queer lives are enshrined within legislative channels.
+---
+PostID: I60403
+Title: To challenge the norms
+Date: 01/04/2026
+Category: Imaginaries
+Tags: Access and inclusion, Trans
+Content: A society that allows people to challenge the norms of what gender should look like and allow access to healthcare and legal recognition that is informed and aligns with their identity and relationships with others.
+
+PostID: F60403
+Title: Celebration rather than scrutiny
+Date: 01/04/2026
+Category: Futures
+Tags: Access and inclusion, Trans, Education
+Content: Loosened ideas around gender roles and presentations, unisex and accessible bathrooms, celebration rather than scrutiny and control of femininity, accessible and nuanced resources for everyone to learn and support queer experiences, love and joy
+---
+PostID: I60402
+Title: The hope for a nuanced perspective
+Date: 01/04/2026
+Category: Imaginaries
+Tags: Intersectionality
+Content: I think queer justice is the hope for a nuanced perspective which tries to be open, non-rigid and non-normative. However, in practice, queer justice is very rigid and black and white. It tries to be progressive, but in its attempts to do so, aims for moral purity rather than grounded intersectional deep listening. This is particularly the case when the perspective does not perfectly match the general queer viewpoint.
+
+PostID: F60402
+Title: All voices are heard in the process
+Date: 01/04/2026
+Category: Futures
+Tags: Intersectionality, Equality and equity, Acceptance
+Content: One in which all voices are heard in the process of justice. Where there is room for nuance, difference and contrasting viewpoints. And the sharing of those perspectives are done so respectfully and openly, so that we can understand one another and move forward. I also think giving room for context, history and material circumstances is important. Every person's experience and perspective is important, but not all hold equal weight since we live in a society which oppresses classes of people. Privilege should be recognised, while not shutting down discussions of difference (because this is where I think queer justice has failed in the past). Also solutions to issues which doesn't result in the crossing of boundaries or re-traumatising people.
+---
+PostID: I60401
+Title: About queer issues
+Date: 01/04/2026
+Category: Imaginaries
+Tags: Discrimination, Intersectionality
+Content: Queer justice for me is first and foremost about queer issues. Issues that affect our community. Aligned issues such as Indigenous rights are important too but the focus and centre is on things that directly affect queer people as a result of being queer.
+---
+PostID: F60401
+Title: Equity and equality.
+Date: 01/04/2026
+Category: Futures
+Tags: Equality and equity
+Content: Equity and equality.
+---
 PostID: I60304
 Title: Justice for queer people or justice by queer people
 Date: 16/03/2026
